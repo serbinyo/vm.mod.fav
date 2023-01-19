@@ -67,5 +67,12 @@ $aMenuLinks = Array(
 		Array(),
 		""
 	),
+    Array(
+        "Список избранного",
+        "personal/favlist/",
+        Array(),
+        Array(),
+        ""
+    ),
 );
 ?>
